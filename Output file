@@ -1,0 +1,254 @@
+MAIN MENU:
+1. Add New Switchboard
+2. Manage Switchboard
+3. Display All Switchboards
+4. Exit
+Enter your choice:
+1
+Enter the number of switchboards to add:
+2
+2 switchboards added.
+MAIN MENU:
+1. Add New Switchboard
+2. Manage Switchboard
+3. Display All Switchboards
+4. Exit
+Enter your choice:
+2
+MANAGE SWITCHBOARD:
+1. Switchboard 1
+2. Switchboard 2
+Enter the serial number of the switchboard to manage or 0 to go back:
+1
+Managing Switchboard 1
+Enter no of fans:
+3
+Enter no of ACs:
+3
+Enter no of bulbs:
+3
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+6
+APPLIANCE ON / OFF MENU
+1. Switch AC 3 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is on
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+7
+APPLIANCE ON / OFF MENU
+1. Switch Bulb 1 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is on
+7. Bulb 1 is on
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+9
+APPLIANCE ON / OFF MENU
+1. Switch Bulb 3 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is on
+7. Bulb 1 is on
+8. Bulb 2 is off
+9. Bulb 3 is on
+Enter the device number to toggle or 0 to go back:
+5
+APPLIANCE ON / OFF MENU
+1. Switch AC 2 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is on
+6. AC 3 is on
+7. Bulb 1 is on
+8. Bulb 2 is off
+9. Bulb 3 is on
+Enter the device number to toggle or 0 to go back:
+5
+APPLIANCE ON / OFF MENU
+1. Switch AC 2 off
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is on
+7. Bulb 1 is on
+8. Bulb 2 is off
+9. Bulb 3 is on
+Enter the device number to toggle or 0 to go back:
+0
+MANAGE SWITCHBOARD:
+1. Switchboard 1
+2. Switchboard 2
+Enter the serial number of the switchboard to manage or 0 to go back:
+2
+Managing Switchboard 2
+Enter no of fans:
+3
+Enter no of ACs:
+3
+Enter no of bulbs:
+3
+SWITCHBOARD MENU:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+1
+APPLIANCE ON / OFF MENU
+1. Switch Fan 1 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is on
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+2
+APPLIANCE ON / OFF MENU
+1. Switch Fan 2 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is on
+2. Fan 2 is on
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+3
+APPLIANCE ON / OFF MENU
+1. Switch Fan 3 on
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is on
+2. Fan 2 is on
+3. Fan 3 is on
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+2
+APPLIANCE ON / OFF MENU
+1. Switch Fan 2 off
+2. Back
+Enter your choice
+1
+SWITCHBOARD MENU:
+1. Fan 1 is on
+2. Fan 2 is off
+3. Fan 3 is on
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
+Enter the device number to toggle or 0 to go back:
+0
+MANAGE SWITCHBOARD:
+1. Switchboard 1
+2. Switchboard 2
+Enter the serial number of the switchboard to manage or 0 to go back:
+0
+MAIN MENU:
+1. Add New Switchboard
+2. Manage Switchboard
+3. Display All Switchboards
+4. Exit
+Enter your choice:
+3
+
+ALL SWITCHBOARDS STATUS:
+
+Switchboard 1:
+1. Fan 1 is off
+2. Fan 2 is off
+3. Fan 3 is off
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is on
+7. Bulb 1 is on
+8. Bulb 2 is off
+9. Bulb 3 is on
+
+Switchboard 2:
+1. Fan 1 is on
+2. Fan 2 is off
+3. Fan 3 is on
+4. AC 1 is off
+5. AC 2 is off
+6. AC 3 is off
+7. Bulb 1 is off
+8. Bulb 2 is off
+9. Bulb 3 is off
